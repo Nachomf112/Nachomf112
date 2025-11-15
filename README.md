@@ -94,3 +94,5 @@ Escáner de puertos con perfiles **Quick / Top1000 / Full**, validación de auto
 - 🌐 **Portfolio técnico (SOC & scripts):** https://cybersecurity-portfolio-ashy.vercel.app/  
 - 🤖 **Web personal / Menárguez-IA Platform:** https://ai.menarguez-ia.com/  
 - 🏢 **Web corporativa Menárguez-IA Solutions:** https://menarguez-ia.com/
+
+  🔄 Actualmente mejorando mis herramientas de reporting SOC (Nmap/AuthLog) y ampliando mi laboratorio CTF local.
