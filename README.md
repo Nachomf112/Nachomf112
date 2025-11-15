@@ -11,10 +11,11 @@ Junior SOC / Blue Team analyst focused on **ciberseguridad defensiva** y **autom
 
 ## 🧩 Stack técnico
 
-- **Lenguajes:** Python, Bash, TypeScript.
+- **Lenguajes:** Python, Bash, PowerShell, TypeScript.
+- **Sistemas:** Linux (Kali/Debian) y Windows (entornos de laboratorio y producción).
 - **Seguridad:** Nmap, Zeek, Wazuh, SIEM (ELK/Splunk según entorno), OSSEC.
 - **Web / Front:** Astro, Next.js, Tailwind CSS.
-- **Infra / Otros:** Linux (Kali/Debian), Docker, Vercel.
+- **Infra / Otros:** Docker, Vercel.
 - **Automatización:** Make.com, scripts propios, pequeños bots con IA.
 
 ---
