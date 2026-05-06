@@ -3,9 +3,6 @@
 # 👤 Ignacio Menárguez
 ### `Cybersecurity · Blue Team · AI Automation`
 
-# Ignacio Menárguez
-### `Cybersecurity · Blue Team · AI Automation`
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignaciomenarguezfernandez/)
 [![Portfolio](https://img.shields.io/badge/SOC_Portfolio-00d4ff?style=for-the-badge&logo=google-chrome&logoColor=black)](https://cybersecurity-portfolio-ashy.vercel.app/)
 [![Web IA](https://img.shields.io/badge/Menarguez--IA-22c55e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ai.menarguez-ia.com/)
