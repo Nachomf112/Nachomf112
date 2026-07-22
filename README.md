@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://raw.githubusercontent.com/Nachomf112/Nachomf112/main/imagen_github.png?v=2)
+![Banner](https://raw.githubusercontent.com/Nachomf112/Nachomf112/main/imagen_github.png)
 
 ### Hey, soy Nacho 👋
 
