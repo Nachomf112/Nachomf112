@@ -21,6 +21,14 @@
 ![Telegram](https://img.shields.io/badge/Telegram_API-000000?style=for-the-badge&logo=telegram&logoColor=26A5E4)
 ![Anthropic](https://img.shields.io/badge/Claude_API-000000?style=for-the-badge&logo=anthropic&logoColor=FFC300)
 
+### Proyectos destacados
+
+- 🔍 **[Nmap Auto Reporter](https://github.com/Nachomf112/nmap-auto-reporter)** — Automatización de escaneos Nmap y generación de informes
+- 🛡️ **[AuthLog Auto Reporter](https://github.com/Nachomf112/authlog-auto-reporter)** — Análisis de registros de autenticación y detección de accesos sospechosos
+- 🧠 **[Blue Team IA Coach](https://github.com/Nachomf112/blue-team-ia-coach)** — IA aplicada a la ciberseguridad para practicar análisis defensivo
+- 📡 **[Port Scanner](https://github.com/Nachomf112/port-scanner-menarguez-ia)** — Escáner de puertos para reconocimiento y análisis de red
+- 🏠 **[Menarguez-IA SOC Lab](https://github.com/Nachomf112/menarguez-ia-soc-lab)** — Laboratorio SOC completo (Wazuh, Suricata, Authentik)
+
 ### GitHub Stats (en vivo)
 
 <img src="https://github-readme-stats.vercel.app/api?username=Nachomf112&show_icons=true&theme=transparent&bg_color=00000000&title_color=FFC300&icon_color=0080F0&text_color=FFFFFF&border_color=0080F0" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nachomf112&theme=transparent&background=00000000&stroke=0080F0&ring=FFC300&fire=FFC300&currStreakLabel=FFFFFF" width="48%"/>
