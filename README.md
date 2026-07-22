@@ -1,153 +1,176 @@
-<div align="center">
-
-# 👤 Ignacio Menárguez
-### `Cybersecurity · Blue Team · AI Automation`
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignaciomenarguezfernandez/)
-[![Portfolio](https://img.shields.io/badge/SOC_Portfolio-00d4ff?style=for-the-badge&logo=google-chrome&logoColor=black)](https://cybersecurity-portfolio-ashy.vercel.app/)
-[![Web IA](https://img.shields.io/badge/Menarguez--IA-22c55e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ai.menarguez-ia.com/)
-[![Corporativa](https://img.shields.io/badge/Menarguez--IA_Solutions-ef4444?style=for-the-badge&logo=google-chrome&logoColor=white)](https://menarguez-ia.com/)
-
-![Profile views](https://komarev.com/ghpvc/?username=Nachomf112&color=00d4ff&style=for-the-badge)
-
-</div>
-
----
-
-## 👾 Sobre mí
-
-```python
-nacho = {
-    "rol":         "Junior SOC Analyst · Blue Team · AI Builder",
-    "enfoque":     ["Ciberseguridad defensiva", "Automatización con IA", "Laboratorios técnicos"],
-    "stack":       ["Python", "Bash", "Wazuh", "Nmap", "FastAPI", "Docker"],
-    "ubicación":   "España 🇪🇸 · Abierto a trabajo remoto 🌍",
-    "actualmente": "Mejorando herramientas SOC y ampliando laboratorio CTF local"
-}
+```{=html}
+<p align="center">
+```
+`<img src="github-banner.png" width="100%" alt="Ignacio Menarguez GitHub Banner">`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<h1 align="center">
+```
+Ignacio Menarguez
+```{=html}
+</h1>
+```
+```{=html}
+<h3 align="center">
+```
+SOC Analyst • Blue Team • AI Automation
+```{=html}
+</h3>
+```
+```{=html}
+<p align="center">
+```
+🏛️ CIEMAT · Ministerio de Ciencia, Innovación y
+Universidades`<br>`{=html} 🛡️ Construyendo un laboratorio SOC
+propio`<br>`{=html} 🤖 IA, Automatización y Ciberseguridad Defensiva
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<a href="https://www.linkedin.com/in/ignaciomenarguezfernandez">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>`{=html}`</a>`{=html}
+`<a href="https://cybersecurity-portfolio-ashy.vercel.app/">`{=html}`<img src="https://img.shields.io/badge/SOC_Portfolio-00d4ff?style=for-the-badge"/>`{=html}`</a>`{=html}
+`<a href="https://menarguez-ia.com">`{=html}`<img src="https://img.shields.io/badge/Menarguez--IA_Solutions-22c55e?style=for-the-badge"/>`{=html}`</a>`{=html}
+```{=html}
+</p>
 ```
 
-> *"La ciberseguridad sin automatización es trabajo manual. La IA sin seguridad es riesgo."*
+------------------------------------------------------------------------
 
----
+# 👋 Sobre mí
 
-## 🧩 Stack técnico
+Actualmente trabajo como **Personal Laboral Fijo en el CIEMAT**,
+organismo público de investigación del Ministerio de Ciencia, Innovación
+y Universidades.
 
-<div align="center">
+Fuera de mi jornada laboral dedico mi tiempo a construir un
+**laboratorio SOC**, desarrollar herramientas para **Blue Team**, crear
+automatizaciones con **Inteligencia Artificial** y compartir
+conocimiento mediante proyectos técnicos y publicaciones.
 
-**Lenguajes**
+Mi objetivo es seguir creciendo en **Detection Engineering, Threat
+Hunting y Automatización aplicada a la Ciberseguridad**.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+------------------------------------------------------------------------
 
-**Seguridad**
+# 🧪 Mi Homelab
 
-![Wazuh](https://img.shields.io/badge/Wazuh-00adef?style=for-the-badge&logo=wazuh&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![ELK](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+-   🖥️ Proxmox VE
+-   🛡️ Wazuh SIEM
+-   🔥 Suricata IDS
+-   🐧 Kali Linux
+-   🔐 Authentik
+-   ☁️ Cloudflare Tunnel
+-   🤖 n8n
+-   🧠 ChromaDB
+-   🐳 Docker
+-   🐍 Python & Bash
 
-**Infra & Automatización**
+------------------------------------------------------------------------
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![Make](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+# ⚙️ Stack Tecnológico
 
-**Web**
-
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-</div>
-
----
-
-## 🛡️ Proyectos destacados
-
-### 🔹 Cybersecurity & IA Portfolio
-Portfolio web donde centralizo mis proyectos de **ciberseguridad**, **automatización** y **labs técnicos** (Nmap, auth.log, Blue Team IA, AML, etc.).
-
-[![Demo](https://img.shields.io/badge/Demo-00d4ff?style=for-the-badge&logo=vercel&logoColor=black)](https://cybersecurity-portfolio-ashy.vercel.app/)
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nachomf112/cybersecurity-portfolio)
-
----
-
-### 🔹 Menárguez-IA Platform — Generador de landings con IA
-Plataforma propia inspirada en emergent/bolt: el usuario describe la landing en un chat y el sistema genera un **PageSpec JSON** que se renderiza con Next.js manteniendo diseño consistente (tema oscuro, precios en EUR, identidad Menárguez-IA).
-
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nachomf112/menarguez-ia-platform-landing-builder)
-
----
-
-### 🔹 Nmap Auto Reporter
-Script Python que lanza escaneos Nmap y genera **informes en Markdown** listos para tickets SOC. Escaneos con `-sV` y perfil agresivo `-T4`.
-
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nachomf112/nmap-auto-reporter)
-
----
-
-### 🔹 AuthLog Auto Reporter
-Herramienta Python que analiza `auth.log` (SSH / sudo / autenticación) y genera informes Markdown con IPs más atacadas, usuarios objetivo y logins aceptados.
-
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nachomf112/authlog-auto-reporter)
-
----
-
-### 🔹 Blue Team IA Coach
-Asistente CLI para **analistas SOC junior** con mini-playbooks paso a paso para responder alertas típicas (malware, fuerza bruta, Nmap sospechoso), con exportación a Markdown.
-
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nachomf112/blue-team-ia-coach)
-
----
-
-### 🔹 Port Scanner — Menárguez-IA Solutions
-Escáner de puertos con perfiles **Quick / Top1000 / Full**, validación de autorización y enfoque **mobile-first**.
-
-[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nachomf112/port-scanner-menarquez-ia)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nachomf112&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f1a&title_color=00d4ff&icon_color=22c55e&text_color=eaeaea)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nachomf112&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f1a&title_color=00d4ff&text_color=eaeaea)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Nachomf112&theme=tokyonight&hide_border=true&background=0b0f1a&ring=00d4ff&fire=22c55e&currStreakLabel=00d4ff)
-
-</div>
-
----
-
-## 🎯 Actualmente trabajando en
-
+```{=html}
+<p align="center">
 ```
-🏗️  Homelab completo con Proxmox + Tailscale + SOC Lab
-🔍  Mejorando herramientas de reporting SOC (Nmap / AuthLog)
-🏴  Ampliando laboratorio CTF local
-🤖  menarguez-ia-core — ecosistema de agentes IA con memoria
+`<img src="https://skillicons.dev/icons?i=python,bash,linux,docker,git,github,fastapi,sqlite,vscode"/>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://img.shields.io/badge/Wazuh-00A9E0?style=for-the-badge"/>`{=html}
+`<img src="https://img.shields.io/badge/Suricata-E94E1B?style=for-the-badge"/>`{=html}
+`<img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge"/>`{=html}
+`<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge"/>`{=html}
+`<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge"/>`{=html}
+```{=html}
+</p>
 ```
 
----
+------------------------------------------------------------------------
 
-## 📫 Contacto
+# 🚀 Proyectos Destacados
 
-<div align="center">
+## 🛡️ Nmap Auto Reporter
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignaciomenarguezfernandez/)
-[![Portfolio SOC](https://img.shields.io/badge/SOC_Portfolio-00d4ff?style=for-the-badge&logo=google-chrome&logoColor=black)](https://cybersecurity-portfolio-ashy.vercel.app/)
-[![Web IA](https://img.shields.io/badge/Menarguez--IA-22c55e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ai.menarguez-ia.com/)
-[![Corporativa](https://img.shields.io/badge/Menarguez--IA_Solutions-ef4444?style=for-the-badge&logo=google-chrome&logoColor=white)](https://menarguez-ia.com/)
+Automatización de escaneos Nmap y generación de informes técnicos.
 
-</div>
+## 📋 AuthLog Auto Reporter
 
----
+Análisis inteligente de auth.log para investigación de incidentes.
 
-<div align="center">
-<sub>⚡ Construido con curiosidad, café y demasiadas terminales abiertas · Nacho Menárguez · 2026</sub>
-</div>
+## 🤖 Blue Team IA Coach
+
+Asistente para analistas SOC con playbooks guiados.
+
+## 🌐 Menarguez IA Platform
+
+Plataforma para generación de soluciones mediante IA.
+
+## 🔎 Port Scanner
+
+Escáner de puertos para laboratorios y auditorías autorizadas.
+
+------------------------------------------------------------------------
+
+# 📊 GitHub Stats
+
+```{=html}
+<p align="center">
+```
+`<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nachomf112&show_icons=true&theme=tokyonight&hide_border=true"/>`{=html}
+`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nachomf112&layout=compact&theme=tokyonight&hide_border=true"/>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://streak-stats.demolab.com?user=Nachomf112&theme=tokyonight&hide_border=true"/>`{=html}
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+# 🎯 Actualmente
+
+-   🛡️ Reglas personalizadas para Wazuh
+-   🤖 Agentes IA con memoria
+-   🧪 Laboratorio SOC
+-   📚 Formación continua
+-   🚀 Nuevos proyectos open source
+
+------------------------------------------------------------------------
+
+# 📫 Contacto
+
+```{=html}
+<p align="center">
+```
+`<a href="https://www.linkedin.com/in/ignaciomenarguezfernandez">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>`{=html}`</a>`{=html}
+`<a href="https://cybersecurity-portfolio-ashy.vercel.app/">`{=html}`<img src="https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge"/>`{=html}`</a>`{=html}
+`<a href="https://menarguez-ia.com">`{=html}`<img src="https://img.shields.io/badge/Web-22c55e?style=for-the-badge"/>`{=html}`</a>`{=html}
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+```{=html}
+<p align="center">
+```
+### 🛡️ Blue Team Mindset
+
+**Learn • Build • Detect • Automate • Defend**
+
+*"La mejor forma de aprender ciberseguridad es construirla."*
+
+```{=html}
+</p>
+```
